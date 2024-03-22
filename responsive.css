@@ -1,0 +1,182 @@
+
+@media (max-width: 500px){
+    #nav{
+        background: #E3DFDA;
+        width: 100vw;
+        height: 10vh;
+        padding: 20px;
+        position: absolute;
+    }
+    
+    #nav>img{
+        width: 20vw;
+    }
+    
+        #nav>a{
+            display: none;
+        }
+    
+        #nav>button{
+            display: none;
+        }
+    
+        #page>h1{
+            font-size: 12.5vw;
+            line-height: 50px;
+            font-weight: 500;
+            /* background: red; */
+            width: 30vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    
+        #page>h5{
+            font-size: 5vw;
+    
+        }
+    
+        #page1>h1{
+            font-weight: 500;
+            font-size: 16vw;
+            line-height: 55px;
+            white-space: nowrap;
+        }
+    
+        #page1>h4{
+            font-size: 4vw;
+        }
+    
+        #page3>h1{
+            font-size: 15vw;
+        }
+
+        #page3>h4{
+            font-size: 4vw;
+            margin-top: 20%;
+            width: 40vw;
+            left: 30%;
+            text-align: justify;
+            
+        }
+
+        
+
+        #page4>h1{
+            font-size: 10vw;
+            margin-left: -28px;
+        }
+
+        #center-page{
+            /* background: red; */
+            height: 85%;
+            margin-top: 15%;
+        }
+
+        #left-page4>svg{
+            scale: 1;
+            left: 2%;
+            top: -23%;
+            position: absolute;
+        }
+    
+        #right-page4{
+            width: 100%;
+            position: absolute;
+            height: 55%;
+            bottom: 0%;
+            /* background: black; */
+        }
+
+        #right-page4>h1{
+            left: 10%;
+            font-weight: 400;
+            font-size: 10vw;
+            top: 15%;
+            position: absolute;
+        }
+
+        #right-page4>h4{
+            width: 80%;
+            left: 10%;
+            top: 30%;
+            position: absolute;
+        }
+
+        #right-page4>button{
+            position: absolute;
+            top: 83%;
+            left: 10%;
+        }
+
+        #page5>h1{
+            font-size: 15vw;
+            width: 100%;
+            position: absolute;
+            margin-left: 20% ;
+        }
+
+        #page6{
+            /* background: gray; */
+            margin-top: -20%;
+        }
+
+        .right-page6{
+            width: 100%;
+            height: 50%;
+        }
+
+        .left-page6{
+            height: 55%;
+            position: absolute;
+            /* background: red; */
+            bottom: 0%;
+            width: 100%;
+        }
+
+        .left-page6>h1{
+            font-size: 10vw ;
+            position: absolute;
+            top: 10%;
+            left: 10%;
+        }
+
+        .left-page6>h4{
+            width: 80%;
+            position: absolute;
+            left: 10%;
+        }
+
+        #page7{
+            /* background: gray; */
+            margin-top: -20%;
+        }
+
+        .right-page7{
+            width: 100%;
+            height: 50%;
+            margin-right: 10%;
+        }
+
+
+        .left-page7{
+            height: 55%;
+            position: absolute;
+            /* background: red; */
+            bottom: 0%;
+            width: 100%;
+        }
+
+        .left-page7>h1{
+            font-size: 10vw ;
+            position: absolute;
+            top: 10%;
+            left: 10%;
+        }
+
+        .left-page7>h4{
+            width: 80%;
+            position: absolute;
+            left: 10%;
+        }
+    }

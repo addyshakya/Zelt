@@ -1,22 +1,12 @@
 
 @font-face {
     font-family: inter-light;
-    src: url(inter_Inter-Medium.ttf);
-}
-
-@font-face {
-    font-family: inter-bold;
-    src: url(inter_Inter-Bold.ttf);
-}
-
-@font-face {
-    font-family: inter-medium;
-    src: url(inter_Inter-Medium.ttf);
+    src: url(zelt1.ttf);
 }
 
 @font-face {
     font-family: gilroy;
-    src: url(Gilroy-Regular.otf);
+    src: url(zelt2.ttf);
 }
 
 *{
@@ -206,7 +196,8 @@ canvas{
     z-index: 99;
     height: 70vh;
     width: 100vw;
-    background-color:#E3DFDA;
+    background-color:#E3DDD8;
+    margin-top: -10px;
 }
 
 #page3>h1{
